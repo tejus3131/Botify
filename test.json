@@ -1,0 +1,22 @@
+{
+    "t2": {
+        "price": "2",
+        "name": "test2"
+    },
+    "t5": {
+        "price": "5",
+        "name": "test3"
+    },
+    "T3": {
+        "price": "3",
+        "name": "Testing Item"
+    },
+    "N10": {
+        "price": "10",
+        "name": "New Item"
+    },
+    "S15": {
+        "price": "15",
+        "name": "Second Item"
+    }
+}
